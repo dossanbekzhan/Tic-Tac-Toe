@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="about_text">This Application is developed by  Dossanov Bekzhan</string>
+
+
+
+
+    <string name="option_empty" />
+    <string name="option_x">X</string>
+    <string name="option_o">O</string>
+</resources>

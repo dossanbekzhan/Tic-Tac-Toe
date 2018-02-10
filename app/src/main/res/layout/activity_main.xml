@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp"
+    android:gravity="center"
+
+    android:background="@color/colorBackground"
+    tools:context="com.example.beka.myapplication2.MainActivity">
+
+
+     <TextView
+         android:textSize="20dp"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Tic Tac Toe"
+         />
+        <Button
+            android:id="@+id/btn_NewGame"
+            android:text="New Game"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/btn_How_to_Play"
+            android:text="How to Play?"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/btn_instuctions"
+            android:text="Instuctions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/btn_exit"
+            android:text="Exit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+</LinearLayout>
