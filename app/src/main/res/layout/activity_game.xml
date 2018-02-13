@@ -9,7 +9,7 @@
 
     <TableLayout
         android:id="@+id/gameTableLayout"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="14dp"
@@ -27,14 +27,14 @@
                 android:layout_weight="10"
                 android:text="@string/option_empty"
                 android:background="@drawable/cell_shape" />
-              <Button
+            <Button
                 android:id="@+id/user_option_button_1_2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="10"
                 android:text="@string/option_empty"
                 android:background="@drawable/cell_shape" />
-              <Button
+            <Button
                 android:id="@+id/user_option_button_1_3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -53,14 +53,14 @@
                 android:layout_weight="10"
                 android:text="@string/option_empty"
                 android:background="@drawable/cell_shape" />
-              <Button
+            <Button
                 android:id="@+id/user_option_button_2_2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="10"
                 android:text="@string/option_empty"
                 android:background="@drawable/cell_shape" />
-              <Button
+            <Button
                 android:id="@+id/user_option_button_2_3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -79,14 +79,14 @@
                 android:layout_weight="10"
                 android:text="@string/option_empty"
                 android:background="@drawable/cell_shape" />
-              <Button
+            <Button
                 android:id="@+id/user_option_button_3_2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="10"
                 android:text="@string/option_empty"
                 android:background="@drawable/cell_shape" />
-              <Button
+            <Button
                 android:id="@+id/user_option_button_3_3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

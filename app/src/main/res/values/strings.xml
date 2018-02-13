@@ -1,11 +1,25 @@
 <resources>
-    <string name="app_name">My Application2</string>
-    <string name="about_text">This Application is developed by  Dossanov Bekzhan</string>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="about_text">This Application is developed by Dossanov Bekzhan</string>
+    <string name="howToPlay_title">How To Play?</string>
+    <string name="howToPlay_Content">\n1. Choose who goes first.\n2. Enter your name in place of Player1 and Player2 by taping on them(Optional).\n3.First Player has X symbol and the second Player has O symbol.\n4.These symbols will be placed on the table, in the attempt to have three of them in a row.\n 5.The players take turns putting their symbol on the table.\n6.The first player to have 3 of their symbols in a row, whether it is horizontally, vertically, or diagonally, is the winner.\n </string>
 
 
-
-
+    <string name="text_enter_name">Enter Name</string>
+    <string name="text_enter_playerName">Enter Player Name: </string>
+    <string name="text_OK">OK</string>
+    <string name="text_Cancel">Cancel</string>
+    <string name="doYouWantToRestart">Do you want to restart?</string>
+    <string name="restart">Restart</string>
+    <string name="player1">Player 1:</string>
+    <string name="player2">Player 2:</string>
     <string name="option_empty" />
     <string name="option_x">X</string>
     <string name="option_o">O</string>
+    <string name="game_over">Game Over</string>
+    <string name="textDraw">Game Resulted in a Draw!Restart Game?</string>
+    <string name="text_positive">Yes</string>
+    <string name="text_negative">No</string>
+    <string name="restart_game">Restart Game?</string>
+    <string name="text_for_won">Won the Game!</string>
 </resources>
